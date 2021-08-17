@@ -11,13 +11,13 @@ Socials:
 ## How do I navigate your GitHub profile?
 
 Well, we can group my repositories into main X categories:
-- Simulations
-- Analysis
-- Computer Science
-- Image Processing
-- Programming Language Trainings
-- Mobile Programming
-- Other Applications
+- [Simulations](https://github.com/alpbintug/alpbintug#simulations)
+- [Analysis](https://github.com/alpbintug/alpbintug#analysis)
+- [Computer Science](https://github.com/alpbintug/alpbintug#computer-science)
+- [Image Processing](https://github.com/alpbintug/alpbintug#image-processing)
+- [Programming Language Trainings](https://github.com/alpbintug/alpbintug#programming-language-trainings)
+- [Mobile Programming](https://github.com/alpbintug/alpbintug#mobile-programming)
+- [Other Applications](https://github.com/alpbintug/alpbintug#other-applications)
 
 ### Simulations
 
