@@ -68,5 +68,5 @@ My school projects but for Android
 
 ### Other Applications
 This section only contains my messaging app - for now.
-- [Whatsapp Jr.](https://github.com/alpbintug/Whatsapp-Jr) you can send search for users, add them as contacts , if they also add you, you can send and receive messages over Firebase of Google. This was an attempt to learn how Firebase works. Do not set your expectations too high.
+- [Whatsapp Jr.](https://github.com/alpbintug/Whatsapp-Jr) you can search for users, add them as contacts , if they also add you, you can send and receive messages over Firebase of Google. This was an attempt to learn how Firebase works. Do not set your expectations too high.
 
