@@ -10,7 +10,7 @@ Socials:
 
 ## How do I navigate your GitHub profile?
 
-Well, we can group my repositories into main X categories:
+Well, we can group my repositories into these categories:
 - [Simulations](https://github.com/alpbintug/alpbintug#simulations)
 - [Analysis](https://github.com/alpbintug/alpbintug#analysis)
 - [Computer Science](https://github.com/alpbintug/alpbintug#computer-science)
