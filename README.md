@@ -23,7 +23,7 @@ Well, we can group my repositories into these categories:
 
 These repositories mainly focuses on simulating how algorithms work in different situations.
 - [Game of Life Simulation:](https://github.com/alpbintug/Game-of-life) written in MATLAB, simulates Conway's Game of Life with random starting states. Resulting GIF is included in the repository, and they it is pronounced GIF not JIF, anyone saying it is pronounced JIF will be excomunicated.
-- [Ant Simulation with Genetic Algorithm:](https://github.com/alpbintug/Ant-Simulation-With-Genetic-Algorithm) simulates how ants act in the real world, how they search for food, lead others to food and find their way back to the colony. Ants have different attributes (Speed, Carrying capacity, etc.) and Genetic Algorithm is used to determine which generation is better fit to find and carry food back to their colony.
+- [Ant Simulation with Genetic Algorithm: WITH VIDEO](https://github.com/alpbintug/Ant-Simulation-With-Genetic-Algorithm) simulates how ants act in the real world, how they search for food, lead others to food and find their way back to the colony. Ants have different attributes (Speed, Carrying capacity, etc.) and Genetic Algorithm is used to determine which generation is better fit to find and carry food back to their colony.
 - [Drone Scanning Simulation with Genetic Algorithm:](https://github.com/alpbintug/Drone-Scanning-Simulation) simulates how N drones scan an area with maximum efficiency.
 - [Map Thingy with Vehicles:](https://github.com/alpbintug/Map-Thingy-With-Vehicles) simulates how vehicles move from point A to point B using existing roads. And this repository has the best name - and this is not a subject for discussion.
 
@@ -63,8 +63,8 @@ If you are beginner, this might help you but mostly I use these repositories as 
 
 ### Mobile Programming
 My school projects but for Android
-- [Wardrobe App](https://github.com/alpbintug/Mobil-Programlama-Proje) lets you select clothes, organize them, and WEAR THEM ON YOUR MODEL. AND YOU CAN SHARE HOW IT LOOKS WITH YOUR FRIENDS? THIS IS INSANE OMG!!! Jk. It looks ugly but the idea is there.
-- [Exam Generation App](https://github.com/alpbintug/Mobil-Programlama-Odev) you can create exams with plain text or image, add choices and score it, then convert it into text and share with whoever you want.
+- [Wardrobe App (WITH VIDEO)](https://github.com/alpbintug/Mobil-Programlama-Proje) lets you select clothes, organize them, and WEAR THEM ON YOUR MODEL. AND YOU CAN SHARE HOW IT LOOKS WITH YOUR FRIENDS? THIS IS INSANE OMG!!! Jk. It looks ugly but the idea is there.
+- [Exam Generation App (WITH VIDEO)](https://github.com/alpbintug/Mobil-Programlama-Odev) you can create exams with plain text or image, add choices and score it, then convert it into text and share with whoever you want.
 
 ### Other Applications
 This section only contains my messaging app - for now.
