@@ -22,14 +22,14 @@ Well, we can group my repositories into these categories:
 ### Simulations
 
 These repositories mainly focuses on simulating how algorithms work in different situations.
-- [Game of Life Simulation:](https://github.com/alpbintug/Game-of-life) written in MATLAB, simulates Conway's Game of Life with random starting states. Resulting GIF is included in the repository, and they it is pronounced GIF not JIF, anyone saying it is pronounced JIF will be excomunicated.
-- [Ant Simulation with Genetic Algorithm: WITH VIDEO](https://github.com/alpbintug/Ant-Simulation-With-Genetic-Algorithm) simulates how ants act in the real world, how they search for food, lead others to food and find their way back to the colony. Ants have different attributes (Speed, Carrying capacity, etc.) and Genetic Algorithm is used to determine which generation is better fit to find and carry food back to their colony.
+- [Game of Life Simulation: (WITH GIF)](https://github.com/alpbintug/Game-of-life) written in MATLAB, simulates Conway's Game of Life with random starting states. Resulting GIF is included in the repository, and it is pronounced GIF not JIF, anyone saying that "it is pronounced JIF" will be excomunicated.
+- [Ant Simulation with Genetic Algorithm: (WITH VIDEO)](https://github.com/alpbintug/Ant-Simulation-With-Genetic-Algorithm) simulates how ants act in the real world, how they search for food, lead others to food and find their way back to the colony. Ants have different attributes (Speed, Carrying capacity, etc.) and Genetic Algorithm is used to determine which generation is better fit to find and carry food back to their colony.
 - [Drone Scanning Simulation with Genetic Algorithm:](https://github.com/alpbintug/Drone-Scanning-Simulation) simulates how N drones scan an area with maximum efficiency.
 - [Map Thingy with Vehicles:](https://github.com/alpbintug/Map-Thingy-With-Vehicles) simulates how vehicles move from point A to point B using existing roads. And this repository has the best name - and this is not a subject for discussion.
 
 ### Analysis
 These repositories focuses on analysing data - or statistical phenomenons.
-- [Experiments on Various Statistical Distributions:](https://github.com/alpbintug/experiments-on-various-statistical-distributions) analyses how given statistical distributions work on real the real world.
+- [Experiments on Various Statistical Distributions:](https://github.com/alpbintug/experiments-on-various-statistical-distributions) analyses how given statistical distributions (binomial, exponential, poisson, etc.) work on the real world.
 - [Analysis on Karabakh Conflict:](https://github.com/alpbintug/Azerbaijan-Armenia-Conflict-Country-Support-Calculation) analyses how countries reacted to the conflict based on the news they released and which countries support which side in this particular conflict.
 - [Analysis on Kickstarter Data:](https://github.com/alpbintug/Analysis-On-Kickstarter-Data) analyses what makes a Kickstarter project successful, gives you tips and tricks. Based on the dataset from Kaggle.
 
