@@ -1,6 +1,6 @@
 ## Who is this "Alp"?
 
-Born in 1999, graduated from Yıldız Technichal University - Computer Engineering department as a honored student in 2021, loves solving and creating problems and riddles, likes to make thought experiments about the universe and human nature.
+Born in 1999, graduated from Yıldız Technichal University - Computer Engineering department as an honored student in 2021, loves solving and creating problems and riddles, likes to make thought experiments about the universe and the nature.
 
 Socials:
 - alp.bintug@gmail.com
