@@ -19,6 +19,11 @@ Well, we can group my repositories into these categories:
 - [Mobile Programming](https://github.com/alpbintug/alpbintug#mobile-programming)
 - [Other Applications](https://github.com/alpbintug/alpbintug#other-applications)
 
+---
+
+<details><summary>Repository Categories</summary>
+  <p>
+    
 ### Simulations
 
 These repositories mainly focuses on simulating how algorithms work in different situations.
@@ -69,4 +74,5 @@ My school projects but for Android
 ### Other Applications
 This section only contains my messaging app - for now.
 - [Whatsapp Jr.](https://github.com/alpbintug/Whatsapp-Jr) you can search for users, add them as contacts , if they also add you, you can send and receive messages over Firebase of Google. This was an attempt to learn how Firebase works. Do not set your expectations too high.
-
+  </p>
+  </details>
