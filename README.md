@@ -35,6 +35,7 @@ These repositories focuses on analysing data - or statistical phenomenons.
 - [Experiments on Various Statistical Distributions:](https://github.com/alpbintug/experiments-on-various-statistical-distributions) analyses how given statistical distributions (binomial, exponential, poisson, etc.) work on the real world.
 - [Analysis on Karabakh Conflict:](https://github.com/alpbintug/Azerbaijan-Armenia-Conflict-Country-Support-Calculation) analyses how countries reacted to the conflict based on the news they released and which countries support which side in this particular conflict.
 - [Analysis on Kickstarter Data:](https://github.com/alpbintug/Analysis-On-Kickstarter-Data) analyses what makes a Kickstarter project successful, gives you tips and tricks. Based on the dataset from Kaggle.
+- [Analysis on Bike Sharing Demand Data](https://github.com/alpbintug/Bike-sharing-demand-analysis) analyses which variables cause higher demand for bike sharing. Based on the dataset from Kaggle.
 
 ### Computer Science
 Working on different stuff, ranging from algorithms to computer graphics
