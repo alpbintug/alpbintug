@@ -1,6 +1,6 @@
 ## Who is this "Alp"?
 
-Born in 1999, graduated from Yıldız Technichal University - Computer Engineering department as an honored student in 2021, loves solving and creating problems and riddles, likes to make thought experiments about the universe and the nature.
+Born in 1999, graduated from Yıldız Technichal University - Computer Engineering department as an honored student in 2021. Loves solving and creating problems and riddles, likes to make thought experiments about the universe and the nature. Apart from that loves staring blankly into walls, ceilings, or any other flat surface for hours.
 
 Socials:
 - alp.bintug@gmail.com
@@ -8,8 +8,13 @@ Socials:
 - [Kaggle](https://www.kaggle.com/alpbintuuzun)
 - Do I *really* have to give a link to my GitHub profile?
 
-## How do I navigate your GitHub profile?
+---
 
+<details>
+    <summary><b> CLICK TO SEE THE DETAILS OF MY GITHUB PROFILE </b>
+    </summary>
+    
+## How do I navigate your GitHub profile? 
 Well, we can group my repositories into these categories:
 - [Simulations](https://github.com/alpbintug/alpbintug#simulations)
 - [Analysis](https://github.com/alpbintug/alpbintug#analysis)
@@ -73,3 +78,4 @@ My school projects but for Android
 ### Other Applications
 This section only contains my messaging app - for now.
 - [Whatsapp Jr.](https://github.com/alpbintug/Whatsapp-Jr) you can search for users, add them as contacts , if they also add you, you can send and receive messages over Firebase of Google. This was an attempt to learn how Firebase works. Do not set your expectations too high.
+</details>
